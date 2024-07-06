@@ -35,7 +35,7 @@ Create a responsive multi-step form with three steps using React.js. Ensure data
    - Ensure the form is responsive and works well on desktop, tablet, and mobile screens.
    - Use appropriate CSS and possibly a CSS framework (like Bootstrap or Material UI) for layout and responsiveness.
 
-7. **Bonus Points (Optional):**
+7. **Bonus Points :**
    - Implement error handling for network requests (e.g., simulate API calls with `setTimeout`).
    - Enhance UX with animations or transitions between steps.
    - Write unit tests for critical components or validation functions.
