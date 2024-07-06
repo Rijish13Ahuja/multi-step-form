@@ -1,0 +1,18 @@
+.step-container {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .error-input {
+    border: 1px solid red;
+  }
+  
+  .error-msg {
+    color: red;
+    font-size: 12px;
+  }
+  

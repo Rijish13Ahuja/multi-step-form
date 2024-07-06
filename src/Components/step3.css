@@ -1,0 +1,24 @@
+.step-container {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .confirmation-section {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .confirmation-section div {
+    width: 48%;
+  }
+  
+  .confirmation-section h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .confirmation-section p {
+    margin-bottom: 5px;
+  }
+  
