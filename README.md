@@ -32,7 +32,7 @@ Create a responsive multi-step form using React.js that allows users to enter an
   - Ensured the form layout is responsive and adaptive across various devices, including desktops, tablets, and mobile phones.
   - Utilized CSS for layout adjustments and possibly integrated a CSS framework like Bootstrap or Material UI for enhanced responsiveness.
 
-## Additional Enhancements (Optional)
+## Additional Enhancements 
 
 - **Error Handling for Network Requests:** Simulated API call delays using `setTimeout` to showcase error handling capabilities.
 - **UX Improvements:** Enhanced user experience with subtle animations and transitions between form steps for a smoother flow.
